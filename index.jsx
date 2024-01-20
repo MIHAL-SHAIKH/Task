@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./../src/App.jsx";
+// import App from "./src/App.jsx";
+import App from "./App.jsx";
 
 document.addEventListener("DOMContentLoaded", () => {
   const sections = document.querySelectorAll("section");
