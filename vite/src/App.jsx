@@ -1,5 +1,5 @@
 import "./App.css";
-import "../index.css";
+import "./../index.css";
 import { Footer } from "./sections/Footer/Footer";
 import { Section1 } from "./sections/Section1/Section1";
 import { Section2 } from "./sections/Section2/Section2";
